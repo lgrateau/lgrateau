@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a> 
    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a> 
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="RedHat" width="40" height="40"/> </a> 
   
   <a href="https://flask.palletsprojects.com/" target="_blank"> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
+   <a href="https://docs.soliditylang.org/en/v0.8.10/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
     </p>
 
 <p>
